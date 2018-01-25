@@ -18,10 +18,10 @@ How do you run my app:
 
 A Table
 |Cool Podcasts|Summary    |
-| ------------| ----------|
-|ImTalk       |Ironman Weekly Podcast|
-|Under The Radar| Swift Dev Podcasts|
-|Swift Coders | By John Sundell - Great Guests|
+|:------------|:----------|
+|ImTalk       |Ironman Wee|
+|Under The Rad| Swift Dev |
+|Swift Coders | By John Su|
 
 
 | Tables        | Are           | Cool  |
