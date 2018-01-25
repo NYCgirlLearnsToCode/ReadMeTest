@@ -17,11 +17,11 @@ How do you run my app:
 [Dillinger](https://dillinger.io/)
 
 A Table
-|Cool Podcasts|Summary|
+|Cool Podcasts|Summary    |
 |:------------|:----------|
-|ImTalk|Ironman Weekly Podcast|
+|ImTalk       |Ironman Weekly Podcast|
 |Under The Radar| Swift Dev Podcasts|
-|Swift Coders| By John Sundell - Great Guests|
+|Swift Coders | By John Sundell - Great Guests|
 
 
 | Tables        | Are           | Cool  |
