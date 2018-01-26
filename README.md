@@ -24,8 +24,9 @@ A Table
 | Under The Rad | Swift Dev   |
 | Swift Coders  | By John Su  |
 
-<a href="https://imgflip.com/gif/23ez0l"><img src="https://i.imgflip.com/23ez0l.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/23ez8x"><img src="https://i.imgflip.com/23ez8x.gif" title="made at imgflip.com"/></a>
 
+<a href="https://imgflip.com/gif/23ezfc"><img src="https://i.imgflip.com/23ezfc.gif" title="made at imgflip.com"/></a>
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
