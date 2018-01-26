@@ -26,10 +26,11 @@ A Table
 
 <a href="https://imgflip.com/gif/23ez8x"><img src="https://i.imgflip.com/23ez8x.gif" title="made at imgflip.com"/></a>
 
+#### Search For A Venue
 <a href="https://imgflip.com/gif/23ezfc"><img src="https://i.imgflip.com/23ezfc.gif" title="made at imgflip.com"/></a> 
-
+#### Add To Collections
 <a href="https://imgflip.com/gif/23ezvy"><img src="https://i.imgflip.com/23ezvy.gif" title="made at imgflip.com"/></a> 
-
+#### Directions
 <a href="https://imgflip.com/gif/23f0jw"><img src="https://i.imgflip.com/23f0jw.gif" title="made at imgflip.com"/></a>
 
 <a href="https://imgflip.com/gif/23f04c"><img src="https://i.imgflip.com/23f04c.gif" title="made at imgflip.com"/></a>
