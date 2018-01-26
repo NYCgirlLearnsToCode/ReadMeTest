@@ -26,7 +26,7 @@ A Table
 
 <a href="https://imgflip.com/gif/23ez8x"><img src="https://i.imgflip.com/23ez8x.gif" title="made at imgflip.com"/></a>
 
-<a href="https://imgflip.com/gif/23ezfc"><img src="https://i.imgflip.com/23ezfc.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/23ezfc"><img src="https://i.imgflip.com/23ezfc.gif" title="made at imgflip.com"/></a> <a href="https://imgflip.com/gif/23ezvy"><img src="https://i.imgflip.com/23ezvy.gif" title="made at imgflip.com"/></a>
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
