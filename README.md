@@ -33,6 +33,8 @@ A Table
 <a href="https://imgflip.com/gif/23f0jw"><img src="https://i.imgflip.com/23f0jw.gif" title="made at imgflip.com"/></a>
 
 <a href="https://imgflip.com/gif/23f04c"><img src="https://i.imgflip.com/23f04c.gif" title="made at imgflip.com"/></a>
+#### Long Press To Temp Zoom
+<a href="https://imgflip.com/gif/23f0ub"><img src="https://i.imgflip.com/23f0ub.gif" title="made at imgflip.com"/></a>
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
